@@ -1,6 +1,6 @@
 ####JEFFREY B. KUNZELMAN
 ######iOS Developer
-######1704 W Calle Del Norte - Chandler, AZ 85224 Email: jeff@river.io - Phone: 608-865-1284
+######1704 W Calle Del Norte - Chandler, AZ 85224 Email: jeff@river.io
 
 ####Mobile Software Development Team Lead
 5 years experience developing native iOS iPhone apps, trained in extreme programming by Pivotal Labs hackathon participant and electronics maker.
