@@ -1,88 +1,115 @@
-**JEFFREY B. KUNZELMAN** 1704 W Calle Del Norte - Chandler, AZ 85224 
+# Jeffrey B. Kunzelman  
+N20545 County Road DD, Ettrick WI, 54627  
+Email: [jeff@river.io](mailto:jeff@river.io) | Phone: 608-865-1284  
 
-Email: jeff@river.io - Phone: 608-865-1284 
+---
 
-**Senior iOS Developer** 
+## Professional Summary  
 
-10+ years experience developing native iOS apps for the Apple App Store in both ObjC and Swift. Experience with Apple Frameworks such as Core Data, Core Bluetooth and Core Graphics to build responsive apps using Rest API’s.  
+Highly experienced IT professional with over 25 years across multiple platforms, including **iOS development, REST APIs, Graph API, enterprise authentication, networking, and IT infrastructure**. Specialized in **native iOS app development** with 10+ years of expertise. Proven record in **optimizing infrastructure, reducing costs, and leading complex projects**. Certified in **ITIL** and well-versed in IT Service Management (ITSM) environments.  
 
-**Insero Solutions, Lead iOS Developer. 
-Jan 2021  -> Aug 2023** 
+Interested in careers with organizations that provide **direct services to public needs** such as disability services, recovery organizations, and healthcare.  
 
-AgPilotX is a Agricultural Aviation guidance system for aerial spraying and seeding agricultural crops. 
+---
 
-- Developed in Swift using MVVM architecture 
-- Integrated Bluetooth / Wifi system with multiple components installed on the Aircraft including valve control, heads up display and other 3rd party hardware components.  
+## Experience  
 
-**Haulynx, Senior iOS Developer. 
-Jul 2019  -> Nov 2020** 
+### VARC Inc. — *IT Specialist*  
+**Nov 2024 – Aug 2025**  
+- Automated Microsoft 365 user administration (account provisioning, manager assignments, group memberships, license management) with descriptive error handling and fail safes.  
+- Developed custom Co-Pilot agents to support HR and IT workflows.  
+- Reduced repetitive administrative tasks, saving staff time and minimizing errors.  
+- Improved IT operations consistency through PowerShell automation and Microsoft Graph integration.  
 
-Haulynx is a logistics app for long haul truck drivers to manage Electronic Driver Logs and load management.  
+---
 
-- Instituted automated build system for production deployments using Bitrise for CI. 
-- Provided insight into customer usage patterns using Splunk and 
-- Amplitude metrics. 
-- Developed key features such as driver logs, vehicle 
-- Inspections, and load tracking. 
+### Cosanti Foundation — *Information Technology Manager*  
+**Jun 2021 – Sept 2024**  
+- Managed network infrastructure across two Arizona sites (Cosanti and Arcosanti) using Ubiquity Unifi.  
+- Oversaw vendor relationships (Lumen, Adobe, Autodesk, Google, and more).  
+- Migrated company web presence to Dreamhost, saving $5K+ monthly.  
+- Led VOIP migration, saving $2.5K monthly.  
+- Directed fiber and network upgrades at historic Cosanti site.  
+- Upgraded wiring to Cat 6 shielded cable to solve lightning-related issues.  
+- Created training documentation for long-term maintenance.  
 
-**General Motors, Consultant.
-Aug 2018.  -> May 2019** 
+---
 
-Maven was a car sharing app that allowed car customers to rent cars with out having to visit a rental facility. 
+### Lead iOS Developer  
+**Jan 2021 – Aug 2023**  
+- Developed **AgPilotX**, an agricultural aviation guidance system for iPads.  
+- Implemented Swift + MVVM integration with aircraft hardware, including Bluetooth/Wi-Fi controls, valve systems, and heads-up displays.  
 
-- Developed new test infrastructure using Nimble/Quick 
+---
 
-**GPS Insight,** **Lead Mobile Developer. 
-Jan 2016  -> Aug 2018** 
+### Haulynx — *Senior iOS Developer*  
+**Jul 2019 – Nov 2020**  
+- Contributed to logistics app for long-haul truckers (electronic driver logs, load management).  
+- Implemented CI/CD with Bitrise.  
+- Integrated Splunk and Amplitude for user insights.  
+- Led migration from Firebase to AWS GraphQL DB.  
 
-GPS Insight is an asset tracking tracking app using Google Maps and proprietary tracking hardware. 
+---
 
-- Performed designer role in addition to lead developer role for primary mobile apps. 
-- Deployed complete rewrite of primary iOS app in 8 months. 
+### General Motors — *Consultant*  
+**Aug 2018 – May 2019**  
+- Built test infrastructure and automated delivery systems for Maven car-sharing app.  
+- Introduced new testing protocols with Nimble/Quick.  
+- Improved deployment with Concourse CI.  
 
-**AAA Insurance, Development Anchor. 
-Apr 2015  -> Dec 2015**
-•Led Team of 6 developers building Android and iOS apps for AAA insurance customers. 
+---
 
-•Worked with Pivotal Labs to bring app in-house from Pivotal Labs while retaining Pivotal Lab’s rapid delivery Behavior Driven Development methods 
+### GPS Insight — *Lead Mobile Developer*  
+**Jan 2016 – Aug 2018**  
+- Led redesign and complete rewrite of core iOS app in eight months.  
+- Served as designer and lead developer for asset-tracking apps with Google Maps.  
 
-**Charles Schwab, Senior Software Engineer. Oct 2011  -> Dec 2014** •Developed unique native iPhone and iPad mobile clients for IT service management. 
+---
 
-•Created operational intelligence tools using Splunk to provide unified dashboards across application, web and mobile infrastructure. 
+### AAA Insurance — *Development Anchor*  
+**Apr 2015 – Dec 2015**  
+- Led team of six building iOS and Android apps for AAA customers.  
+- Partnered with Pivotal Labs to retain BDD and rapid delivery practices with Spring Boot.  
 
-**Ashley Furniture Ind., Senior Developer. 
-Dec 2009  -> May 2011** 
-•Developed and released iAshley an iPad sales catalog for mobile sales force integrating EDI web services for product availability and pricing. This app is used daily by over 500 company sales professionals and Ashley HomeStores. 
+---
 
-**DHL, Principal Systems Engineer. 
-March 2004  -> May 2009** 
-•Developed sales and tracking applications for Blackberry OS 
+### Charles Schwab — *Senior Software Engineer*  
+**Oct 2011 – Dec 2014**  
+- Developed native iPhone/iPad IT service management clients.  
+- Built Splunk-based dashboards for operational intelligence.  
 
-**Cosanti Foundation, Web Master. 
-Sept 2001  -> Mar 2004** 
-•Designed and maintained the Cosanti Foundation’s main website   www.arcosanti.org 
+---
 
-**Software Developer** 
+### Ashley Furniture Industries — *Senior Developer*  
+**Dec 2009 – May 2011**  
+- Developed and launched **iAshley iPad sales catalog app** for 500+ sales reps and stores.  
 
-1992 - 2001 
-•Programmer/Developer positions with IBM, State of Washington, Target Stores, and Thompson Reuters. Details for each client available on request. 
+---
 
-**Education and Training:** 
+### DHL — *Principal Systems Engineer*  
+**Mar 2004 – May 2009**  
+- Developed sales and tracking apps for Blackberry OS, streamlining operations.  
 
-**2010 Stanford University** 
+---
 
-Online courses in Computer Science. 
+### Cosanti Foundation — *Web Master*  
+**Sept 2001 – Mar 2004**  
+- Designed and maintained [arcosanti.org](http://www.arcosanti.org).  
 
-**2008, 2016 Hewlett Packard** 
+---
 
-ITIL V3 Foundation Certification 
+### Software Developer (Various Roles)  
+**1992 – 2001**  
+- Held programmer/developer roles at **IBM, State of Washington, Target Stores, and Thomson Reuters**.  
 
-**2000 Sun Microsystems** 
+---
 
-J2EE Certification 
+## Education & Certifications  
 
-**1999-2001 Minneapolis College of Art and Design** Digital Media Design 
+- **Stanford University** — Online Courses in Software Engineering (2010)  
+- **Hewlett Packard** — ITIL V3 Foundation Certification (2008, 2016)  
+- **Sun Microsystems** — J2EE Certification (2000)  
+- **Minneapolis College of Art and Design** — Digital Media Design (1999–2001)  
+- **Winona State University** — B.A. in Liberal Arts (1988–1992)  
 
-**1988-1992 Winona State University** 
-
-B.A. Liberal Arts
+---
