@@ -1,9 +1,3 @@
-# Jeffrey B. Kunzelman  
-N20545 County Road DD, Ettrick WI, 54627  
-Email: [jeff@river.io](mailto:jeff@river.io) | Phone: 608-865-1284  
-
----
-
 ## Professional Summary  
 
 Highly experienced IT professional with over 25 years across multiple platforms, including **iOS development, REST APIs, Graph API, enterprise authentication, networking, and IT infrastructure**. Specialized in **native iOS app development** with 10+ years of expertise. Proven record in **optimizing infrastructure, reducing costs, and leading complex projects**. Certified in **ITIL** and well-versed in IT Service Management (ITSM) environments.  
