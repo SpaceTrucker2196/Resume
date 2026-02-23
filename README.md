@@ -2,7 +2,7 @@
 
 Highly experienced IT professional with over 25 years across multiple platforms, including **iOS development, REST APIs, Graph API, enterprise authentication, networking, and IT infrastructure**. Specialized in **native iOS app development** with 10+ years of expertise. Proven record in **optimizing infrastructure, reducing costs, and leading complex projects**. Certified in **ITIL** and well-versed in IT Service Management (ITSM) environments.  
 
-Currently building **AI-powered operations infrastructure** — designing multi-agent orchestration systems, terminal-based monitoring dashboards, and automated CI/CD pipelines for open-source security tools.
+Currently building and operating openClaw agents to manage 5 real world rental units. A rental operations agent develops custom leases, handles local governmant complience and licensing, seaches for local landlord and home owner programs for energy effiency and building improvements. Tenates can communicate via email for any questions regarding rental info but are sandboxed to each tenate. Tenates can't go beyond rental questions nor will the the agents return info on other tenatants. A suite of tests ensure complience. 
 
 Interested in careers with organizations that provide **direct services to public needs** such as disability services, recovery organizations, and healthcare.  
 
