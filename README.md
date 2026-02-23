@@ -10,7 +10,7 @@ Interested in careers with organizations that provide **direct services to publi
 
 ## Experience  
 
-### Independent — *Infrastructure & DevOps Engineering*  
+### River.io LLC — *Owner / Infrastructure & DevOps Engineering*  
 **Feb 2026 – Present**  
 - Architected and managed a **multi-agent AI operations platform** on a cloud VPS, orchestrating three specialized AI agents with isolated workspaces, dedicated models, and automated cron-based workflows.  
 - Designed and built **GalacticCIC**, a real-time terminal operations dashboard (Python/curses) for monitoring AI agent fleets, server health, cron jobs, and security posture — featuring a SQLite historical metrics database with trend analysis and tokens-per-hour calculations.  
