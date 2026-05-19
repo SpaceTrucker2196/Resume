@@ -1,16 +1,28 @@
 ## Professional Summary  
 
-Highly experienced IT professional with over 25 years across multiple platforms, including **iOS development, REST APIs, Graph API, enterprise authentication, networking, and IT infrastructure**. Specialized in **native iOS app development** with 10+ years of expertise. Proven record in **optimizing infrastructure, reducing costs, and leading complex projects**. Certified in **ITIL** and well-versed in IT Service Management (ITSM) environments.  
+Highly experienced IT professional with over 25 years across multiple platforms, including **native iOS and Android development, REST APIs, Graph API, enterprise authentication, networking, and IT infrastructure**. Specialized in **native mobile app development** with 10+ years of expertise and a strong commitment to **test-driven development**. Proven record in **optimizing infrastructure, reducing costs, and leading complex projects**. Certified in **ITIL** and well-versed in IT Service Management (ITSM) environments.  
 
-Currently building and operating OpenClaw agents to manage 5 real-world rental units. A rental operations agent develops custom leases, handles local government compliance and licensing, and searches for local landlord and homeowner programs related to energy efficiency and building improvements. Tenants can communicate via email with an agent dedicated to their unit for any questions regarding their rental, but each tenant is sandboxed to their own context — tenants cannot ask questions beyond the scope of their rental, and the agent will never return information pertaining to other tenants. A suite of automated tests enforces compliance with these boundaries.​​​​​​​​​​​​​​​​
+Currently shipping **CareTime**, a one-tap activity tracker for paid family caregivers in Self-Directed Support programs that exports GT Independence–compliant PDF timesheets — built natively for both iOS (Swift/SwiftUI/SwiftData) and Android (Kotlin/Jetpack Compose/Room), with iOS as the behavioral source of truth and a 1:1 unit test parity rule between platforms (22 XCTest suites mirrored by 30 JUnit suites covering segment lifecycle, EVV status, SHA-256 audit chain, PBKDF2 PIN hashing, and PDF rendering). Zero third-party dependencies on either side.  
+
+Also building and operating OpenClaw agents to manage 5 real-world rental units. A rental operations agent develops custom leases, handles local government compliance and licensing, and searches for local landlord and homeowner programs related to energy efficiency and building improvements. Tenants can communicate via email with an agent dedicated to their unit for any questions regarding their rental, but each tenant is sandboxed to their own context — tenants cannot ask questions beyond the scope of their rental, and the agent will never return information pertaining to other tenants. A suite of automated tests enforces compliance with these boundaries.  
+
 Interested in careers with organizations that provide **direct services to public needs** such as disability services, recovery organizations, and healthcare.  
 
 ---
 
 ## Experience  
 
-### River.io LLC — *Owner / Infrastructure & DevOps Engineering*  
+### River.io LLC — *Owner / Mobile, Infrastructure & DevOps Engineering*  
 **Feb 2026 – Present**  
+
+**Cross-platform mobile (iOS + Android), test-driven**  
+- Designed and shipped **CareTime**, a native iOS app (Swift 5.10 / SwiftUI / SwiftData) for paid family caregivers in Self-Directed Support programs — one-tap activity tracking that exports GT Independence–compliant PDF timesheets, with EVV (Electronic Visit Verification) including location capture at clock-in/out, participant attestation, and a tamper-evident SHA-256 audit hash chain.  
+- Ported CareTime to native **Android** (Kotlin 2.0 / Jetpack Compose / Material 3 / Room / Hilt / WorkManager / Glance widgets) — idiomatic Kotlin, not literal Swift translation, while preserving observable behavior exactly (sub-30 s discard, single-active-segment invariant, midnight split, PBKDF2 PIN hashing at 210 000 iterations).  
+- Operate a **parity workspace** with audit-driven workflow: every iOS service has a 1:1 Kotlin counterpart, and every iOS unit test (22 XCTest suites) has a matching JUnit test on Android (30 JVM test suites) — drift is caught by audit prompts and logged in a parity log rather than papered over.  
+- **Zero third-party dependencies on both platforms** — Apple frameworks only on iOS; AndroidX + Google + Hilt + Room only on Android. No Retrofit, Glide, Moshi, RxJava, Firebase, etc.  
+- Live Activities and Siri Shortcuts on iOS; segment-aware foreground notifications and zero-parameter App Shortcuts on Android.  
+
+**AI / DevOps infrastructure**  
 - Architected and managed a **multi-agent AI operations platform** on a cloud VPS, orchestrating three specialized AI agents with isolated workspaces, dedicated models, and automated cron-based workflows.  
 - Designed and built **GalacticCIC**, a real-time terminal operations dashboard (Python/curses) for monitoring AI agent fleets, server health, cron jobs, and security posture — featuring a SQLite historical metrics database with trend analysis and tokens-per-hour calculations.  
 - Built with **BDD testing** (Cucumber/Behave) — 25 scenarios, 83 steps, full GitHub Actions CI/CD pipeline. Packaged as a portable tool installable on any instance via setup script with zero external dependencies.  
