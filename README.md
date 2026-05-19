@@ -1,6 +1,12 @@
 ## Professional Summary  
 
-Highly experienced IT professional with over 25 years across multiple platforms, including **native iOS and Android development, REST APIs, Graph API, enterprise authentication, networking, and IT infrastructure**. Specialized in **native mobile app development** with 10+ years of expertise and a strong commitment to **test-driven development**. Proven record in **optimizing infrastructure, reducing costs, and leading complex projects**. Certified in **ITIL** and well-versed in IT Service Management (ITSM) environments.  
+Engineer with 25+ years across three converging specialties:  
+
+- **DevOps & infrastructure automation** — CI/CD with GitHub Actions, multi-repo release pipelines, BDD-tested operational tooling (Behave/Cucumber), Linux VPS administration, cron-driven workflow orchestration, Debian packaging, and multi-agent AI ops platforms running on real production servers.  
+- **WiFi & network security analysis** — passive 802.11 monitoring (beacon / probe-request / deauth sniffing via `nl80211`), TLS ClientHello + **JA3 fingerprinting**, ARP/mDNS/DHCP/SSDP device discovery, threat-intel correlation, periodic-beacon detection, and per-alert pcap forensic capture — implemented in C99 from the kernel-facing code up.  
+- **Native mobile development** — 10+ years of native iOS (Swift/SwiftUI/SwiftData, Objective-C) and now native Android (Kotlin 2.0 / Jetpack Compose / Room / Hilt), with a strong commitment to **test-driven development** and a deliberate preference for compiled, native languages over cross-platform UI frameworks like Flutter or React Native.  
+
+Also fluent in REST APIs, Microsoft Graph, enterprise authentication, and IT Service Management. Certified in **ITIL**. Proven record of optimizing infrastructure, reducing operating costs, and leading complex projects.  
 
 Currently shipping **CareTime**, a one-tap activity tracker for paid family caregivers in Self-Directed Support programs that exports GT Independence–compliant PDF timesheets — built natively for both iOS (Swift/SwiftUI/SwiftData) and Android (Kotlin/Jetpack Compose/Room), with iOS as the behavioral source of truth and a 1:1 unit test parity rule between platforms (22 XCTest suites mirrored by 30 JUnit suites covering segment lifecycle, EVV status, SHA-256 audit chain, PBKDF2 PIN hashing, and PDF rendering). Zero third-party dependencies on either side.  
 
